@@ -24,7 +24,7 @@
 	- Put all banned channel IDs & Separate with space.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/(githubusername)/File-Store-Script)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dengerous53/temp)
 
 ## Commands:
 ```
